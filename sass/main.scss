@@ -1,0 +1,31 @@
+body {
+    background-color: salmon;
+  }
+  
+  h1 {
+    color: salmon;
+    background-color: white;
+    padding: 15px;
+    width: 200px;
+  }
+  
+  p {
+    width: 400px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0%;
+    margin: 60px 0;
+  
+    li {
+      display: inline-block;
+  
+      a {
+        text-decoration: none;
+        color: wheat;
+        padding: 20px;
+        background-color: darkblue;
+      }
+    }
+  }
